@@ -1,0 +1,12 @@
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU_Simulator.ProgramForm.resources
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU_Simulator.AboutForm.resources
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU_Simulator.Properties.Resources.resources
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.csproj.GenerateResource.Cache
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\bin\Debug\CPU Scheduling Simulator.exe
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\bin\Debug\CPU Scheduling Simulator.pdb
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.exe
+C:\Users\Suhas\Desktop\OS Priority\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.pdb
+C:\Users\Poo\Desktop\mca 1st sem assignments\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.exe
+C:\Users\Poo\Desktop\mca 1st sem assignments\Source Code (Project)\CPU Scheduling Simulator\CPU Simulator GUI\obj\Debug\CPU Scheduling Simulator.pdb
